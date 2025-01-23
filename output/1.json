@@ -6,13 +6,11 @@
 "playerType": 1
 }], 
 
-  "sites": [
-   
-    
-  
+  "sites": 
+  [
     {
       "key": "csp_WoGG",
-      "name": "窝里哥哥（阿里云）",
+      "name": "李崇阳",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
